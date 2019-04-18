@@ -1,5 +1,5 @@
 # Projeto : Colors
 
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+using React Native with flex box colors
 
 By Anderson V. Bellini
